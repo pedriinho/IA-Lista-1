@@ -1,0 +1,49 @@
+{
+    "renda": {
+        "$0 a $15k": {
+            "garantia": {
+                "Nenhuma": "Alto",
+                "Adequada": "Moderado"
+            }
+        },
+        "$15 a $35k": {
+            "garantia": {
+                "Nenhuma": {
+                    "historia_de_credito": {
+                        "Desconhecida": {
+                            "divida": {
+                                "Alta": "Alto",
+                                "Baixa": "Moderado"
+                            }
+                        },
+                        "Boa": "Moderado",
+                        "Ruim": "Alto"
+                    }
+                },
+                "Adequada": {
+                    "divida": {
+                        "Baixa": "Moderado",
+                        "Alta": "Baixo"
+                    }
+                }
+            }
+        },
+        "Acima de $35k": {
+            "historia_de_credito": {
+                "Desconhecida": {
+                    "divida": {
+                        "Baixa": "Baixo",
+                        "Alta": {
+                            "garantia": {
+                                "Nenhuma": "Baixo",
+                                "Adequada": "Moderado"
+                            }
+                        }
+                    }
+                },
+                "Ruim": "Moderado",
+                "Boa": "Baixo"
+            }
+        }
+    }
+}

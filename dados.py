@@ -1,0 +1,7 @@
+dados = {
+    'historia_de_credito': ['Ruim', 'Desconhecida', 'Desconhecida', 'Desconhecida', 'Desconhecida', 'Desconhecida', 'Ruim', 'Ruim', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa', 'Ruim', 'Ruim', 'Desconhecida', 'Desconhecida', 'Desconhecida', 'Desconhecida', 'Desconhecida'],
+    'divida': ['Alta', 'Alta', 'Baixa', 'Baixa', 'Baixa', 'Baixa', 'Baixa', 'Baixa', 'Baixa', 'Alta', 'Alta', 'Alta', 'Alta', 'Alta', 'Baixa', 'Baixa', 'Baixa', 'Alta', 'Alta', 'Alta'],
+    'garantia': ['Nenhuma', 'Nenhuma', 'Nenhuma', 'Nenhuma', 'Nenhuma', 'Adequada', 'Nenhuma', 'Adequada', 'Nenhuma', 'Adequada', 'Nenhuma', 'Nenhuma', 'Nenhuma', 'Nenhuma', 'Adequada', 'Adequada', 'Nenhuma', 'Adequada', 'Nenhuma', 'Adequada'],
+    'renda': ['$0 a $15k', '$15 a $35k', '$15 a $35k', '$0 a $15k', 'Acima de $35k', 'Acima de $35k', '$0 a $15k', 'Acima de $35k', 'Acima de $35k', 'Acima de $35k', '$0 a $15k', '$15 a $35k', 'Acima de $35k', '$15 a $35k', '$0 a $15k', '$15 a $35k', 'Acima de $35k', '$15 a $35k', 'Acima de $35k', 'Acima de $35k'],
+    'risco': ['Alto', 'Alto', 'Moderado', 'Alto', 'Baixo', 'Baixo', 'Alto', 'Moderado', 'Baixo', 'Baixo', 'Alto', 'Moderado', 'Baixo', 'Alto', 'Moderado', 'Moderado', 'Baixo', 'Baixo', 'Baixo', 'Moderado'] 
+}
